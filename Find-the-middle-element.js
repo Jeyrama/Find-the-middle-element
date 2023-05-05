@@ -8,3 +8,6 @@ For example:
   gimme([2, 3, 1]) => 0
   gimme([5, 10, 14]) => 1
 */
+
+
+// Solution
